@@ -1,0 +1,19 @@
+{
+    "name": "@ynet/miniprogram-local-storage",
+    "version": "1.0.0",
+    "description": "",
+    "main": "dist/bundle.js",
+    "scripts": {
+        "build": "build_assembly"
+    },
+    "types": "types/index.d.ts",
+    "author": "Zohar",
+    "license": "MIT",
+    "devDependencies": {
+        "build_assembly": "1.0.0"
+    },
+    "dependencies": {
+        "@ynet/miniprogram-core": "1.0.0",
+        "@dcloudio/types": "*"
+    }
+}

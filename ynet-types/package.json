@@ -1,0 +1,14 @@
+{
+    "name": "@ynet/miniprogram-types",
+    "version": "1.0.0",
+    "description": "",
+    "typings": "index.d.ts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Zohar",
+    "license": "MIT",
+    "dependencies": {
+        "@ynet/miniprogram-core": "1.0.0"
+    }
+}

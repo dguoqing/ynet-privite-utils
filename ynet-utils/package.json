@@ -1,0 +1,19 @@
+{
+    "name": "@ynet/miniprogram-utils",
+    "version": "1.0.0",
+    "description": "",
+    "main": "dist/bundle.js",
+    "scripts": {
+        "build": "build_assembly"
+    },
+    "types": "types/index.d.ts",
+    "author": "Zohar",
+    "license": "MIT",
+    "devDependencies": {
+        "build_assembly": "1.0.0"
+    },
+    "dependencies": {
+        "dayjs": "^1.10.7",
+        "number-precision": "^1.5.1"
+    }
+}

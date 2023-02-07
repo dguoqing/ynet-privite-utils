@@ -1,0 +1,17 @@
+{
+    "name": "ynet-miniprogram",
+    "version": "1.0.0",
+    "description": "1",
+    "main": "index.js",
+    "private": true,
+    "workspaces": [
+        "*"
+    ],
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "git@git.ynet.io:2group/platform/miniprogram/ynet-miniprogram.git"
+    },
+    "author": "Zohar",
+    "license": "MIT"
+}

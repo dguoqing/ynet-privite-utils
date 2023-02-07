@@ -1,0 +1,15 @@
+{
+    "name": "@ynet/miniprogram-filter",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Zohar",
+    "license": "MIT",
+    "dependencies": {
+        "@ynet/miniprogram-core": "1.0.0",
+        "@ynet/miniprogram-utils": "1.0.0"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "name": "@ynet/miniprogram-request-flyio",
+    "version": "1.0.0",
+    "description": "",
+    "main": "dist/bundle.js",
+    "scripts": {
+        "build": "build_assembly"
+    },
+    "types": "types/index.d.ts",
+    "author": "Zohar",
+    "license": "MIT",
+    "dependencies": {
+        "@ynet/miniprogram-core": "1.0.0",
+        "flyio": "^0.6.14"
+    }
+}
